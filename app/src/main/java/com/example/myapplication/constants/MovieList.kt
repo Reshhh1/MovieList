@@ -4,7 +4,7 @@ data class Movie(
     val title: String
 )
 
-val MovieList = listOf<Movie>(
+val MovieList = listOf(
     Movie("Avatar"),
     Movie("Harry Potter"),
     Movie("Transformers"),
